@@ -11,6 +11,7 @@ int main()
     else
     {
         printf("Not eligible for voting");
+
     }
     return 0;
 }
